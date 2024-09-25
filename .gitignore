@@ -1,0 +1,41 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+
+# Ignore PDF files
+*.pdf
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore Node.js libraries
+node_modules/
+
+# Ignore Python development folders
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
