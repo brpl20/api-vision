@@ -18,6 +18,11 @@
 # Ignore Node.js libraries
 node_modules/
 
+bin/
+lib/
+share/
+pyvenv.cfg
+
 # Ignore Python development folders
 __pycache__/
 *.py[cod]
