@@ -5,9 +5,9 @@ import requests
 import json
 
 ## API Keys
-os.environ["OPENAI_API_KEY"] = "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"
-OPENAI_API_KEY = "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"
-API_KEY = "FURgFU3nT3BlbkFJc"
+os.environ["OPENAI_API_KEY"] = ""
+OPENAI_API_KEY = ""
+API_KEY = ""
 
 ## Auth
 def authenticate_request(req):
