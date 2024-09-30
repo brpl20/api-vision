@@ -1,0 +1,120 @@
+Texto: NOME, Confiança: 0.9976
+Coordenadas: [[214.0, 129.0], [255.0, 129.0], [255.0, 143.0], [214.0, 143.0]]
+
+Texto: ADALGESON RODRIGUES OLIVEIRA DO ROSARIO, Confiança: 0.9710
+Coordenadas: [[198.0, 141.0], [790.0, 166.0], [789.0, 187.0], [197.0, 162.0]]
+
+Texto: DOC.IDENTIDADE/ORG.EMISSOR/UF, Confiança: 0.9523
+Coordenadas: [[506.0, 189.0], [773.0, 200.0], [773.0, 218.0], [506.0, 206.0]]
+
+Texto: 528275331, Confiança: 0.9981
+Coordenadas: [[493.0, 208.0], [611.0, 214.0], [610.0, 232.0], [492.0, 226.0]]
+
+Texto: SESP, Confiança: 0.9966
+Coordenadas: [[685.0, 214.0], [742.0, 218.0], [741.0, 238.0], [684.0, 234.0]]
+
+Texto: SP, Confiança: 0.8323
+Coordenadas: [[788.0, 221.0], [817.0, 221.0], [817.0, 237.0], [788.0, 237.0]]
+
+Texto: CPF, Confiança: 0.9391
+Coordenadas: [[513.0, 247.0], [536.0, 247.0], [536.0, 257.0], [513.0, 257.0]]
+
+Texto: 340.024.978-52, Confiança: 0.9936
+Coordenadas: [[487.0, 258.0], [703.0, 266.0], [702.0, 288.0], [487.0, 281.0]]
+
+Texto: DATA NASCIMENTO, Confiança: 0.9774
+Coordenadas: [[721.0, 251.0], [855.0, 251.0], [855.0, 268.0], [721.0, 268.0]]
+
+Texto: 14/11/1985, Confiança: 0.9985
+Coordenadas: [[717.0, 269.0], [871.0, 269.0], [871.0, 292.0], [717.0, 292.0]]
+
+Texto: 861010416, Confiança: 0.9951
+Coordenadas: [[119.0, 288.0], [165.0, 292.0], [142.0, 539.0], [96.0, 535.0]]
+
+Texto: O TERRITORIO NACIONAL, Confiança: 0.9391
+Coordenadas: [[92.0, 303.0], [114.0, 305.0], [89.0, 547.0], [68.0, 545.0]]
+
+Texto: -FILIACAO, Confiança: 0.9068
+Coordenadas: [[502.0, 301.0], [575.0, 301.0], [575.0, 316.0], [502.0, 316.0]]
+
+Texto: PAULO BISPO DO ROSARIO, Confiança: 0.9458
+Coordenadas: [[498.0, 316.0], [843.0, 323.0], [842.0, 345.0], [498.0, 339.0]]
+
+Texto: VALIDA EM TODO, Confiança: 0.9526
+Coordenadas: [[68.0, 331.0], [90.0, 334.0], [67.0, 508.0], [45.0, 505.0]]
+
+Texto: MARIA DA GLORIA, Confiança: 0.9584
+Coordenadas: [[497.0, 376.0], [739.0, 381.0], [739.0, 403.0], [496.0, 397.0]]
+
+Texto: RODRIGUES OLIVEIRA, Confiança: 0.9831
+Coordenadas: [[498.0, 408.0], [787.0, 413.0], [787.0, 432.0], [498.0, 427.0]]
+
+Texto: PERMISSAO, Confiança: 0.9948
+Coordenadas: [[506.0, 447.0], [586.0, 447.0], [586.0, 461.0], [506.0, 461.0]]
+
+Texto: ACC, Confiança: 0.9968
+Coordenadas: [[706.0, 449.0], [739.0, 449.0], [739.0, 465.0], [706.0, 465.0]]
+
+Texto: CAT.HAB, Confiança: 0.9786
+Coordenadas: [[797.0, 446.0], [868.0, 450.0], [867.0, 468.0], [796.0, 465.0]]
+
+Texto: D, Confiança: 0.9822
+Coordenadas: [[834.0, 471.0], [853.0, 476.0], [849.0, 494.0], [829.0, 490.0]]
+
+Texto: NO REGISTRO, Confiança: 0.9011
+Coordenadas: [[191.0, 504.0], [288.0, 504.0], [288.0, 519.0], [191.0, 519.0]]
+
+Texto: 05449314509, Confiança: 0.9979
+Coordenadas: [[209.0, 524.0], [416.0, 527.0], [416.0, 549.0], [209.0, 547.0]]
+
+Texto: 13/04/2024, Confiança: 0.9972
+Coordenadas: [[490.0, 527.0], [653.0, 527.0], [653.0, 549.0], [490.0, 549.0]]
+
+Texto: 21/03/2012, Confiança: 0.9987
+Coordenadas: [[709.0, 525.0], [878.0, 528.0], [878.0, 552.0], [709.0, 549.0]]
+
+Texto: OBSERVACOES, Confiança: 0.9789
+Coordenadas: [[180.0, 608.0], [290.0, 608.0], [290.0, 631.0], [180.0, 631.0]]
+
+Texto: EAR, Confiança: 0.9979
+Coordenadas: [[160.0, 631.0], [215.0, 631.0], [215.0, 656.0], [160.0, 656.0]]
+
+Texto: PROIBIDO PLASTIFICAR, Confiança: 0.9695
+Coordenadas: [[34.0, 925.0], [57.0, 926.0], [52.0, 1176.0], [28.0, 1176.0]]
+
+Texto: 1861010416, Confiança: 0.9972
+Coordenadas: [[77.0, 925.0], [119.0, 926.0], [113.0, 1214.0], [71.0, 1213.0]]
+
+Texto: ASSINATURADO PORTADOR, Confiança: 0.9734
+Coordenadas: [[340.0, 929.0], [545.0, 929.0], [545.0, 947.0], [340.0, 947.0]]
+
+Texto: LOCAL, Confiança: 0.9973
+Coordenadas: [[170.0, 956.0], [220.0, 956.0], [220.0, 975.0], [170.0, 975.0]]
+
+Texto: DATA EMISSAO, Confiança: 0.9729
+Coordenadas: [[720.0, 957.0], [833.0, 957.0], [833.0, 976.0], [720.0, 976.0]]
+
+Texto: BOA., Confiança: 0.8934
+Coordenadas: [[169.0, 979.0], [230.0, 979.0], [230.0, 997.0], [169.0, 997.0]]
+
+Texto: VISTA DA APARECIDA, Confiança: 0.9556
+Coordenadas: [[228.0, 976.0], [576.0, 979.0], [575.0, 1001.0], [228.0, 999.0]]
+
+Texto: PR, Confiança: 0.9852
+Coordenadas: [[571.0, 981.0], [607.0, 981.0], [607.0, 1001.0], [571.0, 1001.0]]
+
+Texto: 17/04/2019, Confiança: 0.9974
+Coordenadas: [[712.0, 977.0], [888.0, 982.0], [887.0, 1010.0], [712.0, 1005.0]]
+
+Texto: 82952886108, Confiança: 0.9955
+Coordenadas: [[741.0, 1078.0], [904.0, 1083.0], [904.0, 1106.0], [740.0, 1101.0]]
+
+Texto: ASSINATURA DO EMISSOR, Confiança: 0.9550
+Coordenadas: [[345.0, 1107.0], [533.0, 1105.0], [533.0, 1120.0], [345.0, 1121.0]]
+
+Texto: PR916289966, Confiança: 0.9957
+Coordenadas: [[740.0, 1109.0], [903.0, 1114.0], [902.0, 1136.0], [739.0, 1132.0]]
+
+Texto: PARANA, Confiança: 0.9982
+Coordenadas: [[428.0, 1146.0], [597.0, 1142.0], [597.0, 1176.0], [429.0, 1179.0]]
+

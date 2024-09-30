@@ -8,6 +8,10 @@ ocr = PaddleOCR(use_angle_cls=True, lang='en')
 # Caminho para a imagem de entrada
 img_path = './docs/CNH.jpg'
 
+# Verifica se o arquivo de imagem existe
+if not os.path.exists(img_path):
+    raise FileNotFoundError(f"Image file not found: {img_path}")
+
 # Realiza o OCR
 result = ocr.ocr(img_path, cls=True)
 
@@ -25,8 +29,14 @@ scores = [line[1][1] for line in result[0]]
 
 # Desenha os resultados na imagem
 # Nota: Você pode precisar especificar um caminho de fonte válido
-# font_path = './fonts/simfang.ttf'  # Ajuste este caminho conforme necessário
-im_show = draw_ocr(image, boxes, txts, scores)
+font_path = '/home/brpl/code/api-vision/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf'  # Ajuste este caminho conforme necessário
+
+# Verifica se o arquivo de fonte existe
+if not os.path.exists(font_path):
+    raise FileNotFoundError(f"Font file not found: {font_path}")
+
+# Chama a função draw_ocr com o caminho da fonte
+im_show = draw_ocr(image, boxes, txts, scores, font_path=font_path)
 im_show = Image.fromarray(im_show)
 
 # Salva a imagem com os resultados
