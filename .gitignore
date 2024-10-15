@@ -17,6 +17,7 @@
 
 # Ignore Node.js libraries
 node_modules/
+models-pt/
 
 bin/
 lib/

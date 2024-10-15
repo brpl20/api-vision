@@ -83,8 +83,8 @@ def process_document(image_path, output_folder):
         raise
 
 def main():
-    input_image = "./docs/CNH.jpg"
-    output_folder = "./docs"
+    input_image = "/LEADS-RS/test.jpg"
+    output_folder = "/LEADS-RS/test-output.jpg"
     
     logger.info("Starting main function")
     try:
