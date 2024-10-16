@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+paddleocr
+openai
+pytesseract
+pdf2image
+pillow
+python-dotenv
+numpy
