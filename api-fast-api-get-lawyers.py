@@ -21,11 +21,16 @@ ocr = PaddleOCR(use_angle_cls=True, lang='pt')
 
 # Configurations for Selenium WebDriver
 gecko_driver_path = './geckodriver'
-profile_path = '/Users/brpl20/Library/Application Support/Firefox/Profiles/5cri1tvj.default-release'
+# MAC
+# profile_path = '/Users/brpl20/Library/Application Support/Firefox/Profiles/5cri1tvj.default-release'
+
+# LINUX
+#profile_path = '/home/brpl/snap/firefox/common/.mozilla/firefox/xyssuzza.default'  
+
 options = Options()
 options.add_argument("-profile")
 options.add_argument(profile_path)
-options.add_argument("-headless")  # Make it headless
+# options.add_argument("-headless")  # Make it headless
 
 def get_firefox_driver():
     service = Service(executable_path=gecko_driver_path)
