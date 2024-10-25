@@ -25,7 +25,7 @@ gecko_driver_path = './geckodriver'
 # profile_path = '/Users/brpl20/Library/Application Support/Firefox/Profiles/5cri1tvj.default-release'
 
 # LINUX
-#profile_path = '/home/brpl/snap/firefox/common/.mozilla/firefox/xyssuzza.default'  
+profile_path = '/home/brpl/snap/firefox/common/.mozilla/firefox/xyssuzza.default'  
 
 options = Options()
 options.add_argument("-profile")
