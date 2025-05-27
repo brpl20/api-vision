@@ -12,7 +12,7 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI()
 ocr = PaddleOCR(use_angle_cls=True, lang='pt')
-basepath = "/home/brpl/od/CLEONICE RODRIGUES DA SILVA BATISTA (3171)/CNPJS"
+basepath = ""
 # ctps_path = os.path.join(basepath, 'CTPS')
 cnis_path = os.path.join(basepath, 'CNIS')
 cnpj_path = os.path.join(basepath, 'EMPRESAS')
